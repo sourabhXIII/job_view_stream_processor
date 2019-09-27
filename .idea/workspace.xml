@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c702e9b5-98de-4db0-a34b-681b9f14bfcb" name="Default Changelist" comment="" />
+    <list default="true" id="c702e9b5-98de-4db0-a34b-681b9f14bfcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/phenom/bean/JobBoards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/phenom/bean/MessageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/phenom/bean/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/JobBoardsAndUsersProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/JobBoardsAndUsersProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/LogJobBoards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/LogJobBoards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/LogUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/LogUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/ViewsStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phenom/pub_sub/ViewsProcessorBinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phenom/pub_sub/JobBoardsAndUsersProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/phenom/pub_sub/JobBoardsAndUsersProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phenom/pub_sub/LogJobBoards$JobBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phenom/pub_sub/LogJobBoards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phenom/pub_sub/LogUser$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phenom/pub_sub/LogUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/phenom/pub_sub/ViewsStreams.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +28,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,7 +43,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RF2kFvPth4ff7gGJAvgZuYaMty" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
@@ -69,5 +92,18 @@
       <updated>1569248664656</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -6,7 +6,7 @@ import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;
 import org.springframework.messaging.SubscribableChannel;
 
-public interface ViewsStreams {
+public interface ViewsProcessorBinder {
 
     String INPUT = "job_board_views";
     String OP_JOB_BOARDS = "job_boards";

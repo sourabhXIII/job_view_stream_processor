@@ -25,14 +25,16 @@ spring:
                     republish-to-dlq=true:
     cloud:
         stream:
-#            kafka.bindings:
-#                input:
-#                    destination: job_board_views
-#                output:
-#                    destination: job_boards
             default-binder: kafka
 management:
     endpoints:
         web:
             exposure:
                 include: bindings
+
+#spring.cloud.stream.bindings.OP_JOB_BOARDS:
+#    destination: job_boards
+#spring.cloud.stream.bindings.OP_USERS:
+#    destination: users
+#spring.cloud.stream.bindings.input:
+#    destination: job_board_views
