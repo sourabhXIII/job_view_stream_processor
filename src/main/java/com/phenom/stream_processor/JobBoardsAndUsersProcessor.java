@@ -1,4 +1,4 @@
-package com.phenom.pub_sub;
+package com.phenom.stream_processor;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

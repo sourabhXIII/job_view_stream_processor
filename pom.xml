@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.phenom</groupId>
-  <artifactId>view_consumer</artifactId>
+  <artifactId>stream-processor</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>view_consumer</name>
+  <name>stream-processor</name>
   <url>http://maven.apache.org</url>
 
   <properties>

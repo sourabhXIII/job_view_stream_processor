@@ -1,4 +1,4 @@
-package com.phenom.pub_sub;
+package com.phenom.stream_processor;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.annotation.Input;

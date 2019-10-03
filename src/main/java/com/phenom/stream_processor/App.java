@@ -1,4 +1,4 @@
-package com.phenom.pub_sub;
+package com.phenom.stream_processor;
 
 import org.apache.kafka.clients.admin.AdminClient;
 import org.apache.kafka.clients.admin.KafkaAdminClient;

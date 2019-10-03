@@ -1,4 +1,4 @@
-package com.phenom.pub_sub;
+package com.phenom.stream_processor;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

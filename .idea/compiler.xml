@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="view_consumer" />
+        <module name="stream-processor" />
       </profile>
     </annotationProcessing>
   </component>
